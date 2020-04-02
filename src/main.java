@@ -40,6 +40,10 @@ public class main {
        System.out.println("JAN CARLO DE LEON CIFUENTES");
        System.out.println("11 CALLE 2-43 ZONA 5 COLONIA LOS ENCINOS");
        System.out.println("33361433");
+        
+       System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
+       System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
+       System.out.println("Telefono: 42252923");
 
     }
     
