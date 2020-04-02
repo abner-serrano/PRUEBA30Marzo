@@ -28,6 +28,10 @@ public class main {
         System.out.println("Denis Joel Cifuentes Cano");
         System.out.println("Zona 1 Chiantla");
         System.out.println("45883960");
+        
+        System.out.println("Geovanni Alfredo Argueta Anzueto");
+        System.out.println("5av 3-67 Zona 6");
+        System.out.println("55748374");
 
     }
     
