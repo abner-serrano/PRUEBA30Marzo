@@ -20,6 +20,11 @@ public class main {
         System.out.println("Terrero zona 4");
         System.out.println("NUMERO DE TELEFONO:");
         System.out.println("+502 53032560");
+        
+        System.out.println("Carlos Andrés Miranda Méndez");
+        System.out.println("1a Calle A, Colonia Villas del Magisterio Zona 9");
+        System.out.println("58385781");
+
     }
     
 }
