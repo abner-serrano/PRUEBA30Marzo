@@ -24,6 +24,10 @@ public class main {
         System.out.println("Carlos Andrés Miranda Méndez");
         System.out.println("1a Calle A, Colonia Villas del Magisterio Zona 9");
         System.out.println("58385781");
+        
+        System.out.println("Denis Joel Cifuentes Cano");
+        System.out.println("Zona 1 Chiantla");
+        System.out.println("45883960");
 
     }
     
