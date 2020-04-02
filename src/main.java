@@ -32,6 +32,10 @@ public class main {
         System.out.println("Geovanni Alfredo Argueta Anzueto");
         System.out.println("5av 3-67 Zona 6");
         System.out.println("55748374");
+        
+        System.out.println("Nombre: Victor Daniel Tejeda Hernández");
+       System.out.println("Direccion: Huehuetenango  Zona 8");
+       System.out.println("Telefono: 34175073");
 
     }
     
