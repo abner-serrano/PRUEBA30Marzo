@@ -36,6 +36,10 @@ public class main {
         System.out.println("Nombre: Victor Daniel Tejeda Hernández");
        System.out.println("Direccion: Huehuetenango  Zona 8");
        System.out.println("Telefono: 34175073");
+        
+       System.out.println("JAN CARLO DE LEON CIFUENTES");
+       System.out.println("11 CALLE 2-43 ZONA 5 COLONIA LOS ENCINOS");
+       System.out.println("33361433");
 
     }
     
